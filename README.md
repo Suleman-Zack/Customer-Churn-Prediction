@@ -1,1 +1,5 @@
 # Customer-Churn-Prediction
+![churn](https://user-images.githubusercontent.com/63692930/130999886-df611371-7e0e-4ebc-9f04-70d942d26e4e.png)
+
+
+The churn rate, also known as the rate of attrition or customer churn, is the rate at which customers stop doing business with an entity. It is most commonly expressed as the percentage of service subscribers who discontinue their subscriptions within a given time period. It is also the rate at which employees leave their jobs within a certain period. For a company to expand its clientele, its growth rate must exceed its churn rate. A high churn rate could adversely affect profits and impede growth. Churn rate is an important factor in the telecommunications industry. In most areas, many of these companies compete, making it easy for people to transfer from one provider to another. The churn rate not only includes when customers switch carriers but also includes when customers terminate service without switching. This measurement is most valuable in subscriber-based businesses in which subscription fees comprise most of the revenues.
